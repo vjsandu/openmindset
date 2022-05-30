@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "openmindset",
+    "slug": "openmindset",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "openmindset"
+}
